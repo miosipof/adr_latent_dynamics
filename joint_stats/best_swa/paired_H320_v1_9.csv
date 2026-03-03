@@ -1,0 +1,2 @@
+,metric,method,n,delta_mean,delta_median,p_less,p_two_sided
+0,rel_mean,stiefel,965,0.014072623252482612,0.012167893350124359,1.0,1.6645935609085055e-93

@@ -1,0 +1,11 @@
+*.h5
+*.pt
+*.pth
+*.h5
+ckpt
+output
+*DS_Store*
+*__pycache__*
+.env
+.venv
+*.ipynb_checkpoints*
